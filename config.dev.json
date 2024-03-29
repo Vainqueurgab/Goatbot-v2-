@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "kthamalai@gmail.com",
+    "email": "vainqueur646@gmail.com",
     "password": "hahahhahha",
     "2FASecret": "",
     "i_user": "",
@@ -17,7 +17,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100095725560244"
+    "100095725560244",
+    "100076436713281",
+    "61555963733226"
   ],
   "whiteListMode": {
     "enable": false,
