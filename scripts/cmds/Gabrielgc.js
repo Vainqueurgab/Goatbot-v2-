@@ -6,7 +6,7 @@ module.exports = {
     name: "gabriel-gc",
     aliases: ["gabriel-gc"],
     version: "1.0",
-    author: "AceGun",
+    author: "gabrielgc",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -24,7 +24,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event, args }) {
-    const threadID = "7787797321239332";
+    const threadID = "8339824452698937";
 
     try {
       // Check if the user is already in the group chat
