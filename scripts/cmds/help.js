@@ -61,9 +61,9 @@ module.exports = {
       pageNotFound: "Trang %1 không tồn tại"
     },
     en: {
-      help: "❍⌇─➭ 𝗚𝗔𝗕𝗥𝗜𝗘𝗟 ☙∬✰  ༈❐༈────────────────༈❐༈       |~[♦♪ 𝔸ℝ𝕊𝔼ℕ𝔼 2.0♪ ∬ ]~|\n\n%1\n━━━━━━━❍━━━━━━\n 𝗣𝗮𝗴𝗲 [ %2/%3 ]\n➮💫 𝗷'𝗮𝗶 𝗮𝗰𝘁𝘂𝗲𝗹𝗹𝗲𝗺𝗲𝗻𝘁「 %4 」𝗖𝗠𝗗s \n❍⌇─➭💫 𝗧𝗮𝗽𝗲: %5help <𝙿𝙰𝙶𝙴> 𝗽𝗼𝘂𝗿 𝗲𝗻 𝘀𝗮𝘃𝗼𝗶𝗿 𝗽𝗹𝘂𝘀\n⇛🔥 » 𝗧𝗮𝗽𝗲: %5help 𝗽𝗼𝘂𝗿 𝘃𝗼𝗶𝗿 𝗹𝗲𝘀 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 𝗱'𝘂𝘁𝗶𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻 𝗱𝗲 𝗺𝗲𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲𝘀\n✰━━━━━❍━━━━━✰\n│ %6\n━━━━━━❍━━━━━━━",
-      help2: "%1\n❍⌇─➭💫𝗹𝗲 𝗯𝗼𝘁 𝗮〚%2〛𝗖𝗠𝗗𝚜 𝘂𝘁𝗶𝗹𝗶𝘀𝗮𝗯𝗹𝗲𝘀\n❍⌇─➭💫☆⊹ 𝗧𝗮𝗽𝗲: %3help ⊹☆ 𝗽𝗼𝘂𝗿 𝘃𝗼𝗶𝗿 𝗹𝗮 𝘁𝗼𝘁𝗮𝗹𝗶𝘁𝗲 𝗱𝗲 𝗺𝗲𝘀 𝗰𝗺𝗱\n ━━━━━━❍━━━━━━:\n%4\n━━━━━━❍━━━━━━",
-      commandNotFound: "𝗖𝗠𝗗 \"『%1』\" 𝗻'𝗲𝘅𝗶𝘀𝘁𝗲 𝗽𝗮𝘀",
+      help: "❍⌇─➭ 𝗚𝗔𝗕𝗥𝗜𝗘𝗟 ☙∬✰   ༈❐༈─────────────༈❐༈       |~[♦♪ 𝐎𝐥𝐢𝐯𝐞𝐫 𝐠𝐚𝐛 2.0♪]~|\n\n%1\n━━━━━━━❍━━━━━━\n 𝗣𝗮𝗴𝗲 [ %2/%3 ]\n➮🍎 𝐉'𝐚𝐢 𝐚𝐜𝐭𝐮𝐞𝐥𝐥𝐞𝐦𝐞𝐧𝐭「 %4 」𝐂𝐌𝐃s \n❍⌇─➭🎯 𝐓𝐚𝐩𝐞: %5help <𝙿𝙰𝙶𝙴> 𝐩𝐨𝐮𝐫 𝐞𝐧 𝐬𝐚𝐯𝐨𝐢𝐫 𝐩𝐥𝐮𝐬\n⇛🎯 » 𝐓𝐚𝐩𝐞: %5help 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐥𝐞𝐬 𝐝𝐞𝐭𝐚𝐢𝐥 𝐝'𝐮𝐭𝐢𝐥𝐥𝐢𝐬𝐚𝐭𝐢𝐨𝐧 𝐝𝐞 𝐦𝐞𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬 ➳♥\n✰━━━━━❍━━━━━✰\n│ %6\n━━━━━━❍━━━━━━━",
+      help2: "%1\n❍⌇─➭🎯𝐋𝐄 𝐁𝐎𝐓 𝗮〚%2〛𝗖𝗠𝗗𝚜 𝐔𝐭𝐢𝐥𝐢𝐬𝐚𝐛𝐥𝐞\n❍⌇─➭🎯☆⊹ 𝗧𝗮𝗽𝗲: %3help ⊹☆ 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐥𝐚 𝐭𝐨𝐭𝐚𝐥𝐢𝐭𝐞𝐞 𝐝𝐞 𝐦𝐞𝐬 𝐜𝐨𝐦𝐝𝗽𝗼𝘂𝗿 \n ━━━━━━❍━━━━━━:\n%4\n━━━━━━❍━━━━━━",
+      commandNotFound: "𝗖𝗠𝗗 \"『%1』\" 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬",
       getInfoCommand: "╭── NAME ────✿\n %1\n├── INFO\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n├── Usage\n%9\n├── Notes\n│ The content inside <XXXXX> can be changed\n│ The content inside [a|b|c] is a or b or c\n╰──────❀",
       onlyInfo: "╭── INFO ────✿\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n╰─────────────✿",
       onlyUsage: "╭── USAGE ────✿\n│%1\n╰─────────────✿",
@@ -128,7 +128,7 @@ module.exports = {
 
         const returnArray = allPage[page - 1] || [];
         const startNumber = (page - 1) * numberOfOnePage + 1;
-        msg += (returnArray || []).reduce((text, item, index) => text += `➪ ${index + startNumber}${index + startNumber < 10 ? " " : ""}.🥀─🔥${item.data}༐⸙\n`, '').slice(0, -1);
+        msg += (returnArray || []).reduce((text, item, index) => text += `➪ ${index + startNumber}${index + startNumber < 10 ? " " : ""}.🌊༈❐༈༈❐༈,🔬${item.data}༐⸙\n`, '').slice(0, -1);
         await message.reply(getLang("help", msg, page, totalPage, commands.size, prefix, doNotDelete));
       }
       else if (sortHelp == "category") {
@@ -140,7 +140,7 @@ module.exports = {
     }
 
     const categoryName = value.config.category || "No Category";
-    const circularSymbol = "\n❍⌇─➭💫"; // Add your desired circular symbol here
+    const circularSymbol = "\n❍⌇─➭🎯"; // Add your desired circular symbol here
 
     if (!categoryCommands.has(categoryName)) {
  categoryCommands.set(categoryName, []);
@@ -254,7 +254,7 @@ module.exports = {
             }
           }
 
-          await Promise.all(promises.map(item => item.getFilePromise));
+          await Promise.all(.map(item => item.getFilePromise));
           for (const item of promises)
             formSendMessage.attachment.push(fs.createReadStream(item.pathFile));
         }
